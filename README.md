@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Peter Mittelstraß @kw-peter-mittelstrass,
-- 👀 interested in everything data-driven, and dpoing data since 30+ years.
-- 🌱 I’m currently learning versioning tools and other developer skills.
+- 👀 interested in everything data-driven, and doing data since 30+ years.
+- 🌱 I’m further updating my developings skill.
 - 💞️ I’m looking to collaborate on: see above
 - 📫 How to reach me: key-work consulting gmbh
 - 😄 Pronouns: his
